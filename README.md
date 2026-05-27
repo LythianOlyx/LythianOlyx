@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Adimas Prakoso 👋
+# Hi there, I'm LythianOlyx 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Information+Technology+Student;UI%2FUX+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Adimas Prakoso
+name: LythianOlyx
 born: July 9, 2025
 location: Indonesia 🇮🇩
 education:
